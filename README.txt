@@ -23,7 +23,7 @@ Once you have installed the plugin, you just need to activate the plugin in orde
 YITH Footer Banner will add a new page under Appearance -> Footer Banner, where you can configure the plugin and customize the frontend page.
 
 = Developer =
-Are you a developer? Want to customize the templates or the style of the plugin? Read on the [documentation](INSERT DOCUMENTATION HERE) and discover how to do that.
+Are you a developer? Want to customize the templates or the style of the plugin? Read on the [documentation](http://yithemes.com/docs-plugins/yith_fbanner/) and discover how to do that.
 
 = Support =
 Hi there, we have good news here: all our plugins are released for free. Wow!
@@ -69,7 +69,7 @@ If you have created your own language pack, or have an update for an existing on
 [use](http://yithemes.com/contact/ "Your Inspiration Themes") so we can bundle it into YITH Footer Banner Languages.
 
 == Documentation ==
-Full documentation is available [here](INSERT DOCUMENTATION HERE).
+Full documentation is available [here](http://yithemes.com/docs-plugins/yith_fbanner/).
 
 == Upgrade notice ==
 
