@@ -16,6 +16,9 @@ Like the one we are using [here](http://www.yithemes.com/)
 Now you'll be able to have your loved one.
 What are you waiting for? Start customizing!
 
+Working demo is available here:
+**[LIVE DEMO](http://www.yithemes.com/)**
+
 = Installation =
 Once you have installed the plugin, you just need to activate the plugin in order to enable it.
 
@@ -28,9 +31,6 @@ Are you a developer? Want to customize the templates or the style of the plugin?
 = Support =
 Hi there, we have good news here: all our plugins are released for free. Wow!
 Already knew it, right?! Great, but maybe you do not know that: if you're looking for how to install the plugins or how to use them within your Wordpress installations, which is the right way to ask support?
-
-Working demo is available here:
-**[LIVE DEMO](http://www.yithemes.com/)**
 
 That's the way:
 * Register on http://yithemes.com
