@@ -4,7 +4,7 @@ Contributors: yithemes
 Tags: footer, banner, newsletter, footer banner, yit
 Requires at least: 3.4.0
 Tested up to: 3.5.2
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -56,6 +56,10 @@ Yes, you'll be able to do it using the option panel. You can also customize the 
 
 == Changelog ==
 
+= 1.0.1 =
+Fixed some bugs
+Added the possibility to have a text above Name and Email fields.
+
 = 1.0.0 =
 * Initial release
 
@@ -75,6 +79,10 @@ If you have created your own language pack, or have an update for an existing on
 Full documentation is available [here](http://yithemes.com/docs-plugins/yith_fbanner/).
 
 == Upgrade notice ==
+
+= 1.0.1 =
+Fixed some bugs
+Added the possibility to have a text above Name and Email fields.
 
 = 1.0.0 =
 Initial release

@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: YITH Footer Banner v1.0.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-06-24 12:18+0100\n"
-"PO-Revision-Date: 2013-07-19 08:34:43+0000\n"
+"PO-Revision-Date: 2013-07-25 08:57:50+0000\n"
 "Last-Translator: Your Inspiration Themes <yithemes@yopmail.com>\n"
 "Language-Team: Your Inspiration Themes <support@yithemes.com>\n"
 "MIME-Version: 1.0\n"
@@ -585,4 +585,24 @@ msgstr "L'attributo \"name\" per il campo nome"
 #@ yit
 msgid "The label for the name field, if it is empty no name field will be printed"
 msgstr "L\\'etichetta per il campo nome, se vuota non sar&agrave; stampata quella parte del form"
+
+#: yith-fbanner-options.php:1
+#@ yit
+msgid "Top Text"
+msgstr "Top Text"
+
+#: yith-fbanner-options.php:1
+#@ yit
+msgid "Write here a text to be shown over the newsletter fields."
+msgstr "Il testo inserito qui sar&agrave; mostrato sopra i campi della newsletter."
+
+#: yith-fbanner-options.php:1
+#@ yit
+msgid "Top Text Font"
+msgstr "Font Top Text"
+
+#: yith-fbanner-options.php:1
+#@ yit
+msgid "Choose the font type, size and color for the text font."
+msgstr "Scegli il font, la dimensione ed il colore del testo per il Top Text."
 
