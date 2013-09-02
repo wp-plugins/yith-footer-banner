@@ -17,7 +17,7 @@ Now you'll be able to have your loved one.
 What are you waiting for? Start customizing!
 
 Working demo is available here:
-**[LIVE DEMO](http://www.yithemes.com/)**
+**[LIVE DEMO 1](http://plugins.yithemes.com/yith-footer-banner/)** **[LIVE DEMO 2](http://www.yithemes.com/)**
 
 = Installation =
 Once you have installed the plugin, you just need to activate the plugin in order to enable it.
