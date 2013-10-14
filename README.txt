@@ -4,7 +4,7 @@ Contributors: yithemes
 Tags: footer, banner, newsletter, footer banner, yit
 Requires at least: 3.4.0
 Tested up to: 3.5.2
-Stable tag: 1.0.2
+Stable tag: 1.0.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -55,6 +55,9 @@ Yes, you'll be able to do it using the option panel. You can also customize the 
 4. Newsletter setting page
 
 == Changelog ==
+
+= 1.0.3 =
+Fixed minor bugs
 
 = 1.0.2 =
 Fixed minor bugs
